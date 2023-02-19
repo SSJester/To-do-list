@@ -1,0 +1,12 @@
+.container {
+    margin-bottom: 20px;
+    border-top: 1px solid rgb(98, 98, 215);
+}
+
+.completedAllTasks {
+    border-bottom: 1px solid rgb(98, 98, 215) ;
+    font-size: 23px;
+    color: #333;
+    font-weight: 600;
+    padding: 30px 0px;
+}

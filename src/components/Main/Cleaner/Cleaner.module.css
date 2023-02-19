@@ -1,0 +1,10 @@
+.cleanertBtn {
+    padding: 10px;
+    color: #fff;
+    height: 46px;
+    width: 140px;
+    background-color: rgb(98, 98, 215);
+    border: none;
+    cursor: pointer;
+    position: relative;
+}

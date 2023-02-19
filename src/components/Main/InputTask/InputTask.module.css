@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.textarea {
+    width: 449px;
+    height: 40px;
+    overflow: auto;
+    resize: none;
+    font-size: 23px;
+    line-height: 40px;
+    border: 3px solid rgb(98, 98, 215);
+    padding: 0px;
+    color: #333;
+}
+
+.textarea:focus {
+    outline: none !important;
+    border: 3px solid gold;
+    box-shadow: 0 0 10px gold;
+}
+
+.button {
+    width: 46px;
+    height: 46px;
+    background-color: rgb(98, 98, 215);
+    border: 0;
+    font-size: 28px;
+    color: #fff;
+    cursor: pointer;
+}

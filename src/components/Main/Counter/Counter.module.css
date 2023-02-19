@@ -1,0 +1,14 @@
+.textBody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(98, 98, 215);
+    border: 3px solid rgb(98, 98, 215);
+    height: 46px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.numbers {
+    font-weight: 700;
+}
